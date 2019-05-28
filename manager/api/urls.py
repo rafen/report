@@ -1,5 +1,5 @@
 from rest_framework import routers
-from report.api.views import ReportViewSet
+from manager.api.views import ReportViewSet
 
 
 router = routers.SimpleRouter()
